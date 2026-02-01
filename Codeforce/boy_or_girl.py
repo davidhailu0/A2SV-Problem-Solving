@@ -1,0 +1,5 @@
+user_name = input()
+if len(set(user_name)) % 2 == 0:
+    print("CHAT WITH HER!")
+else:
+    print("IGNORE HIM!")
