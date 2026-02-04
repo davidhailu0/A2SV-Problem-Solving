@@ -1,0 +1,1 @@
+{"name":"Local: ABC","url":"c:\\Users\\david\\Desktop\\A2SV-Problem-Solving\\Codeforce\\ABC.py","tests":[{"id":1770140898555,"input":"4\n1\n1\n2\n10\n2\n01\n4\n1010\n","output":"YES\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\david\\Desktop\\A2SV-Problem-Solving\\Codeforce\\ABC.py","group":"local","local":true}
