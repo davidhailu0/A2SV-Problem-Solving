@@ -14,23 +14,23 @@ class Solution:
             result.append(mat[i][j])
             
             if up:
-                if j == n - 1:   # hit right boundary
+                if j == n - 1: 
                     i += 1
                     up = False
-                elif i == 0:     # hit top boundary
+                elif i == 0:
                     j += 1
                     up = False
-                else:            # move up-right
+                else:   
                     i -= 1
                     j += 1
             else:
-                if i == m - 1:   # hit bottom boundary
+                if i == m - 1:
                     j += 1
                     up = True
-                elif j == 0:     # hit left boundary
+                elif j == 0:
                     i += 1
                     up = True
-                else:            # move down-left
+                else:
                     i += 1
                     j -= 1
                     
