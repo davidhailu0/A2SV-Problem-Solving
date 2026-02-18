@@ -16,3 +16,4 @@ class Solution:
 
 sol = Solution()
 print(sol.isValid("(])"))
+"a".isdigit

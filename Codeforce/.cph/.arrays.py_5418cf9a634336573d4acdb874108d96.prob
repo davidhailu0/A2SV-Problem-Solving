@@ -1,0 +1,1 @@
+{"name":"Local: arrays","url":"c:\\Users\\david\\Desktop\\A2SV-Problem-Solving\\Codeforce\\arrays.py","tests":[{"id":1771058250902,"input":"3\n5\n1 7 11 2 13\n4\n1 2 3 4\n6\n1 1 1 2 2 3\n","output":"2\n0\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\david\\Desktop\\A2SV-Problem-Solving\\Codeforce\\arrays.py","group":"local","local":true}
